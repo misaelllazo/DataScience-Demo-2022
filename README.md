@@ -2,7 +2,7 @@
 This is my portfolio project
 
 
-##Backgrond
+## Backgrond
 
 I looked at X, Y, Z
 
